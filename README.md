@@ -1,2 +1,2 @@
 # Pull of Twrp_by_your_initials
-Delay copy of "https://disk.yandex.ru/d/IfplnhgtgqaCew"
+Delay copy of "Twrp_by_your_initials"
