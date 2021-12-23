@@ -1,2 +1,2 @@
-# EasyGifAnimator
-Delay copy of "https://easygifanimator.net" (Cocev_Dmitrii_IA-192_SIA)
+# Pull of Twrp_by_your_initials
+Delay copy of "Twrp_by_your_initials"
